@@ -1,0 +1,13 @@
+.detail{
+    border-bottom: 3px solid rgb(58, 155, 98);
+}
+
+.img{
+    height: 10%;
+    width: 10%;
+    
+}
+
+.comments-detail{
+    display: flex;
+}
